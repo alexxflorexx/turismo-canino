@@ -1,0 +1,17 @@
+@media (max-width:1024px){
+  .article-layout{grid-template-columns:1fr 240px;gap:24px}
+}
+@media (max-width:768px){
+  body{font-size:16px}
+  .hero{padding:32px 20px}
+  .hero img{width:100%}
+  .article-layout{grid-template-columns:1fr}
+  aside.sidebar{position:static}
+  .site-nav ul{display:none;flex-direction:column;width:100%;padding:8px 0}
+  .site-nav.open ul{display:flex}
+  .nav-toggle{display:inline-block}
+}
+@media (max-width:375px){
+  .hero h1{font-size:1.55rem}
+  body{font-size:15px}
+}

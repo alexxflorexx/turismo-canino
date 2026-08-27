@@ -1,0 +1,123 @@
+{
+  "site_id": "site-0cc5d52ffe0b",
+  "keyword": "turismo canino senderismo perros",
+  "topic": "Turismo Canino Senderismo",
+  "slug": "turismo-canino-senderismo-perros",
+  "directory": "turismo-canino-senderismo-perros__2026-08-27",
+  "version": 1,
+  "created_at": "2026-08-27T02:15:57+00:00",
+  "updated_at": "2026-08-27T02:53:11+00:00",
+  "exported_at": "2026-08-27T02:53:41+00:00",
+  "decision": "CREATE_SITE",
+  "cluster_id": "CLU-bf43d3b80cd6",
+  "pages_count": 12,
+  "pages": [
+    "404.html",
+    "articulos/index.html",
+    "articulos/turismo-canino-y-senderismo-tecnico-dog-friendly/index.html",
+    "categorias/cultivos/index.html",
+    "categorias/index.html",
+    "contacto/index.html",
+    "cookies/index.html",
+    "guia/index.html",
+    "index.html",
+    "privacidad/index.html",
+    "sobre-nosotros/index.html",
+    "terminos/index.html"
+  ],
+  "assets": [
+    "404.html",
+    "ads.txt",
+    "articulos/index.html",
+    "articulos/turismo-canino-y-senderismo-tecnico-dog-friendly/index.html",
+    "categorias/cultivos/index.html",
+    "categorias/index.html",
+    "contacto/index.html",
+    "cookies/index.html",
+    "css/responsive.css",
+    "css/style.css",
+    "favicon.svg",
+    "guia/index.html",
+    "images/a4f3d21a98d2d9e0-hero.jpg",
+    "images/e4045616ea691bf8-subject.jpg",
+    "images/hero.svg",
+    "index.html",
+    "js/main.js",
+    "manifest.webmanifest",
+    "privacidad/index.html",
+    "robots.txt",
+    "rss.xml",
+    "sitemap.xml",
+    "sobre-nosotros/index.html",
+    "terminos/index.html"
+  ],
+  "asset_hashes_sha256_16": {
+    "rss.xml": "390849d98a63136e",
+    "index.html": "785f2887d862b10a",
+    "ads.txt": "61ed7ec7122f296c",
+    "404.html": "3ac4caeceabe8e1e",
+    "sitemap.xml": "0eb546a4a83ac279",
+    "robots.txt": "5f241ec5d59ca0ad",
+    "manifest.webmanifest": "a2e5e8a5548b779a",
+    "favicon.svg": "a53478486f446369",
+    "guia/index.html": "45e7aa9abb5d6a6a",
+    "css/responsive.css": "facf8382a0fc2d57",
+    "css/style.css": "c85ae8992250cef4",
+    "images/hero.svg": "525f30c2eb39e014",
+    "images/e4045616ea691bf8-subject.jpg": "e4045616ea691bf8",
+    "images/a4f3d21a98d2d9e0-hero.jpg": "a4f3d21a98d2d9e0",
+    "js/main.js": "38e8c817bf4a9b29",
+    "articulos/index.html": "1a33883fb75aad6e",
+    "contacto/index.html": "bffc36e0af30531a",
+    "sobre-nosotros/index.html": "0227306a2ad015e5",
+    "categorias/index.html": "35ff92eb4ad6ed8e",
+    "terminos/index.html": "7e6a53af6445ba92",
+    "privacidad/index.html": "2781226869220576",
+    "cookies/index.html": "f135936a2e45c830",
+    "categorias/cultivos/index.html": "c3a27084b9311076",
+    "articulos/turismo-canino-y-senderismo-tecnico-dog-friendly/index.html": "2e6fb262ad32a4e7"
+  },
+  "images": [
+    {
+      "file": "a4f3d21a98d2d9e0-hero.jpg",
+      "source": "https://live.staticflickr.com/5090/5282422645_7565ee1d80_b.jpg",
+      "author": "dave_7",
+      "license": "CC BY 2.0",
+      "sha256": "a4f3d21a98d2d9e012e6b40a3630cac53da2e09af3e3f4410af529e366bc80a3"
+    },
+    {
+      "file": "e4045616ea691bf8-subject.jpg",
+      "source": "https://live.staticflickr.com/3848/15257793281_de9af3fd1e_b.jpg",
+      "author": "Juan Montiel",
+      "license": "CC BY 2.0",
+      "sha256": "e4045616ea691bf8376abb48714e4da595b276e50e4e1705d8a2221f495f730c"
+    }
+  ],
+  "qa": {
+    "technical": "PASS/WARN (ver validator en build_report)",
+    "visual": "ver runs/visual-qa/site-0cc5d52ffe0b",
+    "editorial": "ver learning_log",
+    "quality_gate": "UNKNOWN",
+    "quality_score": null
+  },
+  "export_gate": {
+    "blockers": [],
+    "warnings": [
+      "gate_desconocido (web histórica)"
+    ]
+  },
+  "content_hash": "afebdd36c70004095fa69dae1ddf2ca5",
+  "generator": "Money Web Factory — local-first, sin secretos",
+  "http_check": {
+    "ok": true,
+    "results": {
+      "index.html": 200,
+      "sitemap.xml": 200,
+      "robots.txt": 200,
+      "css/style.css": 200,
+      "css/responsive.css": 200,
+      "images/a4f3d21a98d2d9e0-hero.jpg": 200,
+      "js/main.js": 200
+    }
+  }
+}
